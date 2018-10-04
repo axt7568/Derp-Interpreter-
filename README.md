@@ -1,2 +1,2 @@
-# Derp-Interpreter-
+# Derp-Interpreter
 Interpreter for the language Derp 
